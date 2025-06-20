@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/2b7cce8b-899b-4a1c-85dc-c459dce67ae9)
 # 🗺️ Mapa da Programação
 
 Um projeto visual e interativo desenvolvido com **HTML**, **CSS** e **JavaScript** que apresenta uma visão geral das principais tecnologias utilizadas no desenvolvimento web. Ideal para iniciantes que desejam entender as diferentes linguagens, bibliotecas e frameworks, ou para profissionais que querem uma visão organizada das ferramentas disponíveis.
